@@ -1,0 +1,116 @@
+body{
+    font-family: "Kite One";
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+
+.navbar{
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.navbar-brand>img{
+    height: 100px;
+    width: auto;
+}
+
+
+h1{
+    text-align: center;
+    color: #99CC33;
+}
+
+h2{
+    font-size: 25px;
+    color: #54C7DD ;
+}
+
+h3{
+    font-size: 18px;
+    text-align: left;
+}
+
+form{
+    margin-top: 25px;
+    text-align: center;
+}
+
+
+input{
+    margin: 25px;
+    padding: 5px;
+}
+
+input:focus{outline: none}
+
+input[type="submit"], .button{
+    border: 1px solid #54C7DD;
+    background-color: white;
+}
+
+input[type="submit"]:hover, .button:hover{
+    border: 1px solid #99CC33;
+    cursor: pointer;
+}
+
+input[type='text'], input[type='password']{
+    border: none;
+    border-bottom: 1px solid #54C7DD;
+}
+
+input[type='text']:focus, input[type='password']:focus{
+    border-bottom: 1px dashed #99CC33;
+}
+
+textarea{
+    resize: none;
+}
+
+
+table{
+    width: 100%;
+    margin-top: 35px;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+td{
+    padding: 10px;
+}
+
+.resume-table{
+    width: 50%;
+}
+
+
+.resume-table:first-child{
+    font-weight: bold;
+}
+
+.resume-table:last-child{
+    text-align: right;
+}
+
+.question{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 10px;
+    border: 1px solid #54C7DD;
+}
+
+.answer{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #99CC33;
+}

@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d525cdc8-5478-411f-b1bd-e71b9b405afe" name="Default" comment="first commit">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/Gemfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/Gemfile.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/ISSUE_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-grid.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-grid.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-reboot.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap-reboot.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/change-version.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/configBridge.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/gcp-key.json.enc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/npm-shrinkwrap.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/postcss.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/sauce_browsers.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/grunt/upload-preview.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/.babelrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/.eslintrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/alert.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/button.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/carousel.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/collapse.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/dropdown.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/modal.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/popover.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/scrollspy.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/tab.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/tooltip.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/dist/util.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/js/src/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/nuget/MyGet.ps1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/nuget/bootstrap.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/nuget/bootstrap.sass.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/package.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/sache.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/.scss-lint.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_breadcrumb.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_button-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_card.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_carousel.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_close.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_code.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_custom-forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_custom.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_dropdown.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_images.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_input-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_jumbotron.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_media.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_modal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_nav.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_navbar.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_normalize.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_popover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_print.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_progress.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_responsive-embed.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_tables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_tooltip.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_transitions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_type.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_utilities.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/bootstrap-grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/bootstrap-reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/bootstrap.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_background-variant.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_border-radius.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_breakpoints.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_cards.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_gradients.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_grid-framework.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_hover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_image.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_lists.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_nav-divider.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_navbar-align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_reset-text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_resize.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_size.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_table-row.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_text-emphasis.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_text-hide.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_text-truncate.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_transforms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/mixins/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_background.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_borders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_display.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_flex.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_position.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_screenreaders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_sizing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_spacing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/bootstrap/scss/utilities/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/AUTHORS.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.slim.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.slim.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/external/sizzle/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/external/sizzle/dist/sizzle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/.eslintrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/jsonp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/load.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/parseXML.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/location.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/callbacks.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/DOMEval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/access.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/nodeName.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/parseHTML.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/ready-no-deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/readyException.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/stripAndCollapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/adjustCSS.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/showHide.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/getStyles.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/rmargin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/swap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/Data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/var/acceptData.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/var/dataPriv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/var/dataUser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deferred/exceptionHook.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deprecated.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/ajax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/alias.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/focusin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/trigger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/amd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/buildFragment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/getAll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/setGlobalEval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/var/rscriptType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/var/rtagName.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/wrapMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue/delay.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector-native.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector-sizzle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/serialize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/findFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/var/dir.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/var/siblings.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/ObjectFunctionString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/arr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/class2type.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/concat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/document.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/documentElement.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/fnToString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/getProto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/hasOwn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/indexOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/pnum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/push.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/rcssNum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/rnothtmlwhite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/slice.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/toString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether-theme-arrows-dark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether-theme-arrows-dark.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether-theme-arrows.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether-theme-arrows.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether-theme-basic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether-theme-basic.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/css/tether.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/js/tether.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/dist/js/tether.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/1-Overview/1-why_you_should_use_tether.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/1-Overview/2-repositioning.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/1-Overview/3-why_we_dont_support_IE_8.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/2-Examples/1-list_of_examples.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/2-Examples/2-projects_using_tether.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/3-Advanced/1-embedding_tether.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/3-Advanced/2-extending_tether.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/coffee/intro.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/css/intro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/intro.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/js/intro.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/js/markAttachment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/sass/intro.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/browser-demo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/coffee/welcome.coffee" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/css/browser-demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/css/prism.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/css/welcome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/js/drop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/js/log.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/js/tether-v0.1.3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/js/welcome.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/sass/_inline-block.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/sass/browser-demo.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/docs/welcome/sass/welcome.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/chosen/chosen-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/chosen/chosen-sprite@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/chosen/chosen.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/chosen/chosen.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/chosen/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/common/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/content-visible/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/dolls/dolls.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/dolls/dolls.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/dolls/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/element-scroll/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/enable-disable/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/facebook/facebook.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/facebook/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/out-of-bounds/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/pin/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/resources/css/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/resources/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/resources/js/log.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/scroll/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/simple/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/testbed/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/tooltip/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/viewport/colors.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/examples/viewport/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/helpers/_tether-theme-arrows.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/helpers/_tether-theme-basic.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/helpers/_tether.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/mixins/_inline-block.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/mixins/_pie-clearfix.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/tether-theme-arrows-dark.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/tether-theme-arrows.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/tether-theme-basic.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/css/tether.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/js/abutment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/js/constraint.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/js/markAttachment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/js/shift.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/js/tether.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tether/src/js/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/jquery.tinymce.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/jquery.tinymce.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/advlist/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/advlist/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/advlist/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/anchor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/anchor/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/anchor/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autolink/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autolink/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autolink/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autoresize/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autoresize/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autoresize/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autosave/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autosave/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/autosave/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/bbcode/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/bbcode/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/bbcode/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/charmap/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/charmap/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/charmap/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/code/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/code/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/code/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/codesample/css/prism.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/codesample/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/codesample/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/codesample/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/colorpicker/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/colorpicker/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/colorpicker/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/contextmenu/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/contextmenu/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/contextmenu/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/directionality/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/directionality/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/directionality/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-cool.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-cry.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-frown.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-smile.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-wink.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/img/smiley-yell.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/emoticons/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/fullpage/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/fullpage/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/fullpage/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/fullscreen/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/fullscreen/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/fullscreen/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/help/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/help/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/help/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/help/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/hr/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/hr/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/hr/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/image/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/image/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/image/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/imagetools/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/imagetools/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/imagetools/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/importcss/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/importcss/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/importcss/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/insertdatetime/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/insertdatetime/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/insertdatetime/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/legacyoutput/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/legacyoutput/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/legacyoutput/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/link/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/link/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/link/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/lists/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/lists/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/lists/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/media/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/media/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/media/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/nonbreaking/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/nonbreaking/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/nonbreaking/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/noneditable/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/noneditable/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/noneditable/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/pagebreak/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/pagebreak/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/pagebreak/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/paste/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/paste/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/paste/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/preview/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/preview/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/preview/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/print/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/print/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/print/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/save/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/save/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/save/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/searchreplace/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/searchreplace/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/searchreplace/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/spellchecker/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/spellchecker/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/spellchecker/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/tabfocus/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/tabfocus/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/tabfocus/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/table/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/table/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/table/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/template/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/template/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/template/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/textcolor/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/textcolor/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/textcolor/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/textpattern/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/textpattern/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/textpattern/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/toc/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/toc/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/toc/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualblocks/css/visualblocks.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualblocks/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualblocks/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualblocks/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualchars/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualchars/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/visualchars/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/wordcount/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/wordcount/plugin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/plugins/wordcount/plugin.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/content.inline.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/content.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/content.mobile.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/fonts/tinymce.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/img/anchor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/img/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/img/object.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/img/trans.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/skin.ie7.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/skin.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/skins/lightgray/skin.mobile.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/inlite/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/inlite/theme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/inlite/theme.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/mobile/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/mobile/theme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/mobile/theme.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/modern/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/modern/theme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/themes/modern/theme.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/tinymce.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinymce/tinymce.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/login.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inscription.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/newSubject.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/parts/header.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/phplib/addSubject.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/phplib/addanswer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/phplib/connect.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/phplib/db.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/phplib/newUser.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/subject.php" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding>
+                    <marker date="1513099313696" expanded="true" signature="800:871" ph="..." />
+                    <marker date="1513099313696" expanded="true" signature="800:872" ph="..." />
+                    <marker date="1513099313696" expanded="true" signature="800:1009" ph="..." />
+                    <marker date="1513099313696" expanded="true" signature="800:1030" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/login.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="26" column="71" lean-forward="false" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/parts/header.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                  <folding>
+                    <marker date="1513115228711" expanded="true" signature="200:217" ph="..." />
+                    <marker date="1513115228711" expanded="true" signature="219:289" ph="..." />
+                    <marker date="1513115228711" expanded="true" signature="366:444" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="subject.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/subject.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="40" />
+                  <folding>
+                    <marker date="1513103990711" expanded="true" signature="848:856" ph="é" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="inscription.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/inscription.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="867">
+                  <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="newSubject.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/newSubject.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="addSubject.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/phplib/addSubject.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="26" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="addanswer.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/phplib/addanswer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="newUser.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/phplib/newUser.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="newUser.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/phplib/newUser.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/phplib/connect.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="578">
+                  <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="35" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/phplib/db.php" />
+        <option value="$PROJECT_DIR$/newSubject.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/subject.php" />
+        <option value="$PROJECT_DIR$/phplib/addSubject.php" />
+        <option value="$PROJECT_DIR$/phplib/addanswer.php" />
+        <option value="$PROJECT_DIR$/css/login.css" />
+        <option value="$PROJECT_DIR$/phplib/connect.php" />
+        <option value="$PROJECT_DIR$/phplib/newUser.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/parts/header.php" />
+        <option value="$PROJECT_DIR$/inscription.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidPropertyValue</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="phplib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\Ampps\www\blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d525cdc8-5478-411f-b1bd-e71b9b405afe" name="Default" comment="" />
+      <created>1510566366721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510566366721</updated>
+      <workItem from="1510566368022" duration="1461000" />
+      <workItem from="1513087710137" duration="16196000" />
+      <workItem from="1513716162619" duration="70000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1510572453422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510572453423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17727000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18176973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1513099313696" expanded="true" signature="800:871" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:872" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:1009" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:1030" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1513115228711" expanded="true" signature="200:217" ph="..." />
+            <marker date="1513115228711" expanded="true" signature="219:289" ph="..." />
+            <marker date="1513115228711" expanded="true" signature="366:444" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="71" lean-forward="false" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newSubject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/addSubject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/addanswer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <marker date="1513103990711" expanded="true" signature="848:856" ph="é" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/newUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="35" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513099313696" expanded="true" signature="800:871" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:872" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:1009" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:1030" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/addanswer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/addSubject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1513099313696" expanded="true" signature="800:871" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:872" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:1009" ph="..." />
+            <marker date="1513099313696" expanded="true" signature="800:1030" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newSubject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="35" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplib/newUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="71" lean-forward="false" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1513115228711" expanded="true" signature="200:217" ph="..." />
+            <marker date="1513115228711" expanded="true" signature="219:289" ph="..." />
+            <marker date="1513115228711" expanded="true" signature="366:444" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <marker date="1513103990711" expanded="true" signature="848:856" ph="é" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
